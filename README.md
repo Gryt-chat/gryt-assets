@@ -28,4 +28,4 @@ Every logo comes as SVG and PNG.
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use them for anything, and say where they came from.
 
-Questions, or need something that isn't here? Email [sivert@gryt.chat](mailto:sivert@gryt.chat).
+Writing about Gryt, or need something that isn't here? Email [press@gryt.chat](mailto:press@gryt.chat).
