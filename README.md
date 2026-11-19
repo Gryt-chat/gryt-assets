@@ -26,6 +26,6 @@ Every logo comes as SVG and PNG.
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use them for anything, and say where they came from.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), with the full text in [LICENSE](LICENSE). Use them for anything, and say where they came from.
 
 Writing about Gryt, or need something that isn't here? Email [press@gryt.chat](mailto:press@gryt.chat).
