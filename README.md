@@ -1,23 +1,31 @@
-# Gryt Assets
+# Gryt assets
 
-Hello! 👋
+Gryt's name, owl, banners and wallpapers. The same files are on [gryt.chat/press](https://gryt.chat/press), with previews.
 
-Welcome to the Gryt Assets repository. Here, you will find all the press materials related to Gryt, including logos, images, videos, and other promotional content.
+## What's here
 
-## Contents
+| Folder | What's in it |
+|---|---|
+| `Logo/Name` | The name, Gryt, in light, dark and violet. The letters are outlines, so you don't need the font. |
+| `Logo/Lockup` | The owl beside the name, and the owl above it. |
+| `Logo/Owl` | The owl on a square, in a circle, and with no tile. |
+| `Logo/Apple` | `macos` follows Apple's icon grid. `ios.png` is the full square, because iOS rounds the corners itself. |
+| `Logo/Mark` | The owl in one colour, for favicons and small sizes. |
+| `Banners` | A GitHub README banner, a GitHub social preview and a profile header. |
+| `OG` | The default share image, 1200×630. |
+| `Wallpapers` | 5120×2880 for desktops, 1290×2796 for phones. |
 
-- **Logos**: High-resolution versions of our brand logos in various formats (PNG, SVG, EPS).
-- **Images**: Professional photos of our products, team, and events.
-- **Videos**: Promotional videos and behind-the-scenes footage.
-- **Press Releases**: Official statements and announcements from Gryt.
-- **Brand Guidelines**: Detailed guidelines on how to use Gryt's visual and verbal identity.
+Every logo comes as SVG and PNG.
+
+## Please don't
+
+- Redraw the owl or change its colours.
+- Stretch it, squash it or tilt it.
+- Put the bare owl on a busy photo. Use the square or the circle there.
+- Write it as GRYT or Gryt.chat. It's Gryt.
 
 ## License
 
-All assets are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/). For detailed terms and conditions, please refer to the LICENSE file included in this repository.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use them for anything, and say where they came from.
 
-## Usage
-
-Feel free to use these assets for any press or promotional purposes. If you have any questions or need additional materials, please contact us at [sivert@gryt.chat](mailto:sivert@gryt.chat).
-
-Thank you for supporting Gryt!
+Writing about Gryt, or need something that isn't here? Email [press@gryt.chat](mailto:press@gryt.chat).
