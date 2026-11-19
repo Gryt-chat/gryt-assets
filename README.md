@@ -18,6 +18,6 @@ All assets are licensed under the [Creative Commons Attribution 4.0 Internationa
 
 ## Usage
 
-Feel free to use these assets for any press or promotional purposes. If you have any questions or need additional materials, please contact us at [root@sivert.io](mailto:root@sivert.io).
+Feel free to use these assets for any press or promotional purposes. If you have any questions or need additional materials, please contact us at [sivert@gryt.chat](mailto:sivert@gryt.chat).
 
 Thank you for supporting Gryt!
